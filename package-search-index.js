@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.ulpgc.edp.model"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.ulpgc.edp.exceptions"},{"l":"org.ulpgc.edp.model"}];updateSearchResults();

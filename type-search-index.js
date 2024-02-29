@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.ulpgc.edp.model","l":"Dictionary"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.ulpgc.edp.model","l":"Dictionary"},{"p":"org.ulpgc.edp.exceptions","l":"EmptyDictionaryException"},{"p":"org.ulpgc.edp.exceptions","l":"KeyErrorException"}];updateSearchResults();
