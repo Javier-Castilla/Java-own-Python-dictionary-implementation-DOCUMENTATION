@@ -1,2 +1,3 @@
 org.ulpgc.edp.exceptions
-org.ulpgc.edp.model
+org.ulpgc.edp.model.dictionaryobject
+org.ulpgc.edp.model.tupleobject
